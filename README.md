@@ -9,7 +9,9 @@
  - [Database](#database)
  - [Delphi](#delphi)
  - [C sharp](#csharp)
+ - [C++](#c++)
  - [Web Develop](#web-develop)
+ - [Linux](#linux)
  - [Other](#other)
 
 ###Machine Learning
@@ -41,6 +43,7 @@
  - [Khabar Fouri IT](https://telegram.me/Khabar_Fouri_IT) - A channel for Those interested in the field of technology
  - [ITDMC](https://telegram.me/itdmc) - Channel Center for Information Technology and Digital Media
  - [Programming Tips](https://telegram.me/programming_tips) - A channel for free time Programmers and news and information programming.
+ - [Mfta ir](https://telegram.me/mfta_ir) - Journal tomorrow's technology channel
 
 ###Database
  - [SQL Server](https://telegram.me/joinchat/BTQQtzy50j-IxIAOKHWwVg) - SQL Server Discussion Group 
@@ -56,6 +59,9 @@
  - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
  - [Heilton Programming](https://telegram.me/HeiltonProgramming) -Projects and teaching programming C #, C ++, Java, PHP, HTML, CSS, Bootstrap, VB.net, v basic, XML, Projects and education network CCNA, Network +, MCITP and ... 
 
+###c++
+ - [Learning C++](https://telegram.me/Learncpp) - Learning C++  Channel
+
 ###Web Develop 
  - [Web Develop(Gp)](https://telegram.me/joinchat/BaoJETxRxmPG3mV96OkcBg) - Web Develop Group 
  - [Web Support](https://telegram.me/joinchat/Amapzzu5N7KU9l8i9biQVw) - Web support group - Topics related to designing and managing Web sites - graphic design and ...
@@ -63,13 +69,13 @@
  - [Wordpress](https://telegram.me/joinchat/A5G0xDwGOy5X8cNmGJexrA) - Wordpress Group 
  - [SEO](https://telegram.me/joinchat/BPd01zwYPAkNV3tTsoc8pA) - SEO Group 
 
+###Linux
+ - [UnixLike](https://telegram.me/joinchat/CXY-8UBLZqxDL96KpNx4aA) - Group Linux
+
 ###Other
  - [Step By Step Learn](https://telegram.me/stepbysteplearn) - Programming Tutorials Channel
  - [Startup & Developers](https://telegram.me/joinchat/Cp3i8T4nWz-mlpCNbtRXmw) - Startup & Developers Group
- - [UnixLike](https://telegram.me/joinchat/CXY-8UBLZqxDL96KpNx4aA) - Group Linux
  - [Jahesh Academy](https://telegram.me/jaheshacademy) - Students entering the labor market and entrepreneurial cycle, with the help of superior teachers
- - [Mfta ir](https://telegram.me/mfta_ir) - Journal tomorrow's technology channel
  - [Programmers & Developers](https://telegram.me/joinchat/CtLPQz1zgxeC4Xtw9fU6YA) - Programmers & Developers Group 
  - [Computer Problems](https://telegram.me/joinchat/BMmX7j6aLeL7favbNOMCHQ) - Computer problems, phone hacking and security questions Group 
- - [Learning C++](https://telegram.me/Learncpp) - Learning C++  Channel
  - [Persian Developers](https://telegram.me/persiandevelopers) - Training programs - from beginner to professional Channel
