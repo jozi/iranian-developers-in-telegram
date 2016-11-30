@@ -2,6 +2,7 @@
 ##Curated List of Persian Groups and Channels for Iranian (Persian) Developers in Telegram
 ## Contents
  - [Machine Learning](#machine-learning)
+ - [Big Data](#big-data)
  - [Python](#python)
  - [Andriod](#android)
  - [News](#news)
@@ -15,11 +16,13 @@
  - [Text Mining & Web Mining](https://telegram.me/joinchat/BCuwFj7gB2aeH_76bNz5dQ) - Text Mining & Web Mining group
  - [Data Science](https://telegram.me/joinchat/CVZpEj0EaiNQ47bY-4ko5g) - Data Science group
  - [DataPool](https://telegram.me/joinchat/BEtl7zy6mdKn6qOsgGYMfg) - Group for Sharing Research Data
- - [Big Data](https://telegram.me/joinchat/A7SgeDuzptdo9zhyJV7MVA) - Group for specialized topics related to Big Data
- - [Hadoop.ir](https://telegram.me/hadoop) - Channel Hadoop.ir 
  - [Dayche Data Mining](https://telegram.me/Dayche) - Group data mining Daykh: The Psychology of data; a place for lovers of data mining
  - [Data Science](https://telegram.me/dataanalysis) - A channel for Data Science
- 
+
+###BigcData
+ - [Big Data](https://telegram.me/joinchat/A7SgeDuzptdo9zhyJV7MVA) - Group for specialized topics related to Big Data
+ - [Hadoop.ir](https://telegram.me/hadoop) - Channel Hadoop.ir 
+
 ###Python
  - [IrPython](https://telegram.me/joinchat/BFAsrj2D5okEHzEZfhuTpw) - Iranian Python Users Group
  - [Python](https://telegram.me/joinchat/BR1mSTwSfWdmkxmyF4Gpig) - Group interested in Python
