@@ -8,3 +8,4 @@
  - [IrPython](https://telegram.me/joinchat/BFAsrj2D5okEHzEZfhuTpw) - Iranian Python Users Group
  - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
  - [SQL Server](https://telegram.me/joinchat/BTQQtzy50j-IxIAOKHWwVg) - SQL Server Discussion Group 
+ - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
