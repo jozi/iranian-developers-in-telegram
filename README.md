@@ -22,6 +22,7 @@
 ###Big Data
  - [Big Data](https://telegram.me/joinchat/A7SgeDuzptdo9zhyJV7MVA) - Group for specialized topics related to Big Data
  - [Hadoop.ir](https://telegram.me/hadoop) - Channel Hadoop.ir 
+ - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
 
 ###Python
  - [IrPython](https://telegram.me/joinchat/BFAsrj2D5okEHzEZfhuTpw) - Iranian Python Users Group
@@ -52,7 +53,6 @@
 
 ###Other
  - [Web Support](https://telegram.me/joinchat/Amapzzu5N7KU9l8i9biQVw) - Web support group - Topics related to designing and managing Web sites - graphic design and ...
- - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
  - [Step By Step Learn](https://telegram.me/stepbysteplearn) - Programming Tutorials Channel
  - [Startup & Developers](https://telegram.me/joinchat/Cp3i8T4nWz-mlpCNbtRXmw) - Startup & Developers Group
  - [UnixLike](https://telegram.me/joinchat/CXY-8UBLZqxDL96KpNx4aA) - Group Linux
