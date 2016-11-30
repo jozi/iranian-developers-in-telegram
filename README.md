@@ -32,3 +32,7 @@
  - [Data Science](https://telegram.me/dataanalysis) - A channel for Data Science
  - [Mfta ir](https://telegram.me/mfta_ir) - Journal tomorrow's technology channel
  - [SEO](https://telegram.me/joinchat/BPd01zwYPAkNV3tTsoc8pA) - SEO Group 
+ - [Web Develop(Gp)](https://telegram.me/joinchat/BaoJETxRxmPG3mV96OkcBg) - Web Develop Group 
+ - [Wordpress](https://telegram.me/joinchat/A5G0xDwGOy5X8cNmGJexrA) - Wordpress Group 
+ - [Programmers & Developers](https://telegram.me/joinchat/CtLPQz1zgxeC4Xtw9fU6YA) - Programmers & Developers Group 
+ - [Computer problems](https://telegram.me/joinchat/BMmX7j6aLeL7favbNOMCHQ) - Computer problems, phone hacking and security questions Group 
