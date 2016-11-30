@@ -38,3 +38,8 @@
  - [Computer Problems](https://telegram.me/joinchat/BMmX7j6aLeL7favbNOMCHQ) - Computer problems, phone hacking and security questions Group 
  - [Learning C++](https://telegram.me/Learncpp) - Learning C++  Channel
  - [Iran PHP](https://telegram.me/irphp) - A php Channel
+ - [Persian Developers](https://telegram.me/persiandevelopers) - Training programs - from beginner to professional Channel
+ - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
+ - [Android Studio](https://telegram.me/joinchat/Bvjv_j908b7xE4ggJfcGvw) - Android Studio Group
+ - [Android Studio](https://telegram.me/AndroidStudyChannel) -Android Studio Channel
+ - [Heilton Programming](https://telegram.me/HeiltonProgramming) -Projects and teaching programming C #, C ++, Java, PHP, HTML, CSS, Bootstrap, VB.net, v basic, XML, Projects and education network CCNA, Network +, MCITP and ... 
