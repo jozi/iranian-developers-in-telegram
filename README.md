@@ -8,7 +8,7 @@
  - [News](#news)
  - [Database](#database)
  - [Delphi](#delphi)
- - [C sharp](#csharp)
+ - [Csharp](#csharp)
  - [C++](#c++)
  - [Web Develop](#web-develop)
  - [Linux](#linux)
