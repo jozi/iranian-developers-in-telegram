@@ -15,3 +15,4 @@
  - [DataPool](https://telegram.me/joinchat/BEtl7zy6mdKn6qOsgGYMfg) - Group for Sharing Research Data
  - [Python](https://telegram.me/joinchat/BR1mSTwSfWdmkxmyF4Gpig) - Group interested in Python
  - [Python Programming Resources](https://telegram.me/pythony) - Channel for Python Programming Resources
+ - [ITFarsi](https://telegram.me/ITFarsi) - Channel IT Farsi With more than 63,000 members
