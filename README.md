@@ -20,3 +20,5 @@
  - [Big Data](https://telegram.me/joinchat/A7SgeDuzptdo9zhyJV7MVA) - Group for specialized topics related to Big Data
  - [Python Challenge](https://telegram.me/pythonchallenge) - Group for Advanced Learning Python
  - [Step By Step Learn](https://telegram.me/stepbysteplearn) - Programming Tutorials Channel
+ - [Startup & Developers](https://telegram.me/joinchat/Cp3i8T4nWz-mlpCNbtRXmw) - Startup & Developers Group
+ - [UnixLike](https://telegram.me/joinchat/CXY-8UBLZqxDL96KpNx4aA) - Group Linux
