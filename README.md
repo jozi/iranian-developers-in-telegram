@@ -7,3 +7,4 @@
  - [Web Support](https://telegram.me/joinchat/Amapzzu5N7KU9l8i9biQVw) - Web support group - Topics related to designing and managing Web sites - graphic design and ...
  - [IrPython](https://telegram.me/joinchat/BFAsrj2D5okEHzEZfhuTpw) - Iranian Python Users Group
  - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
+ - [SQL Server](https://telegram.me/joinchat/BTQQtzy50j-IxIAOKHWwVg) - SQL Server Discussion Group 
