@@ -8,8 +8,8 @@
  - [News](#news)
  - [Database](#database)
  - [Delphi](#delphi)
- - [Csharp](#csharp)
- - [Cplusplus](#cplusplus)
+ - [C sharp](#c-sharp)
+ - [C plus plus](#c-plus-plus)
  - [Web Develop](#web-develop)
  - [Linux](#linux)
  - [Other](#other)
@@ -54,12 +54,12 @@
  - [Delphi](https://telegram.me/Embarcadero_Delphi) - Delphi Channel 
  - [Delphi SourceCode](https://telegram.me/joinchat/Bvjv_j9Ra3U6gQFk9Ek2Lw) - Delphi SourceCode Group
 
-###Csharp
+###C sharp
  - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
  - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
  - [Heilton Programming](https://telegram.me/HeiltonProgramming) -Projects and teaching programming C #, C ++, Java, PHP, HTML, CSS, Bootstrap, VB.net, v basic, XML, Projects and education network CCNA, Network +, MCITP and ... 
 
-###Cplusplus
+###C plus plus
  - [Learning C++](https://telegram.me/Learncpp) - Learning C++  Channel
 
 ###Web Develop 
