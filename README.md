@@ -22,3 +22,6 @@
  - [Step By Step Learn](https://telegram.me/stepbysteplearn) - Programming Tutorials Channel
  - [Startup & Developers](https://telegram.me/joinchat/Cp3i8T4nWz-mlpCNbtRXmw) - Startup & Developers Group
  - [UnixLike](https://telegram.me/joinchat/CXY-8UBLZqxDL96KpNx4aA) - Group Linux
+ - [Hadoop.ir](https://telegram.me/hadoop) - Channel Hadoop.ir 
+ - [SQL Server/Oracle Data Mining](https://telegram.me/SQL_DataMining) - SQL Server Data Mining/ Azure ML SQL Server Data Warehousing Oracle Data Mining Big-Data
+
