@@ -7,7 +7,7 @@
  - [News](#news)
  - [Database](#database)
  - [Delphi](#delphi)
- - [C#](#csharp)
+ - [C sharp](#csharp)
  - [Other](#other)
 
 ###Machine Learning
@@ -43,7 +43,7 @@
  - [Delphi](https://telegram.me/Embarcadero_Delphi) - Delphi Channel 
  - [Delphi SourceCode](https://telegram.me/joinchat/Bvjv_j9Ra3U6gQFk9Ek2Lw) - Delphi SourceCode Group
 
-###C#
+###C Sharp
  - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
  - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
 
