@@ -35,4 +35,6 @@
  - [Web Develop(Gp)](https://telegram.me/joinchat/BaoJETxRxmPG3mV96OkcBg) - Web Develop Group 
  - [Wordpress](https://telegram.me/joinchat/A5G0xDwGOy5X8cNmGJexrA) - Wordpress Group 
  - [Programmers & Developers](https://telegram.me/joinchat/CtLPQz1zgxeC4Xtw9fU6YA) - Programmers & Developers Group 
- - [Computer problems](https://telegram.me/joinchat/BMmX7j6aLeL7favbNOMCHQ) - Computer problems, phone hacking and security questions Group 
+ - [Computer Problems](https://telegram.me/joinchat/BMmX7j6aLeL7favbNOMCHQ) - Computer problems, phone hacking and security questions Group 
+ - [Learning C++](https://telegram.me/Learncpp) - Learning C++  Channel
+ - [Iran PHP](https://telegram.me/irphp) - A php Channel
