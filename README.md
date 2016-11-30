@@ -9,7 +9,7 @@
  - [Database](#database)
  - [Delphi](#delphi)
  - [Csharp](#csharp)
- - [C++](#c++)
+ - [C++](#c--)
  - [Web Develop](#web-develop)
  - [Linux](#linux)
  - [Other](#other)
