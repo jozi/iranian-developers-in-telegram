@@ -6,6 +6,8 @@
  - [Andriod](#android)
  - [News](#news)
  - [Database](#database)
+ - [Delphi](#delphi)
+ - [Other](#other)
 
 ###Machine Learning
  - [Deep Learning Group](https://telegram.me/joinchat/Ba_oHz3_zWPo9CzLKoquvw) - Machine learning and deep learning group
@@ -35,12 +37,16 @@
  - [SQL Server](https://telegram.me/joinchat/BTQQtzy50j-IxIAOKHWwVg) - SQL Server Discussion Group 
  - [SQL Server/Oracle Data Mining](https://telegram.me/SQL_DataMining) - SQL Server Data Mining/ Azure ML SQL Server Data Warehousing Oracle Data Mining Big-Data
 
- - [Web Support](https://telegram.me/joinchat/Amapzzu5N7KU9l8i9biQVw) - Web support group - Topics related to designing and managing Web sites - graphic design and ...
- - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
- - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
+###Delphi
  - [Delphi](https://telegram.me/joinchat/Bia5cD6E3fj8di6UgAxvSw) - Delphi Discussion Group
  - [Delphi](https://telegram.me/Embarcadero_Delphi) - Delphi Channel 
  - [Delphi SourceCode](https://telegram.me/joinchat/Bvjv_j9Ra3U6gQFk9Ek2Lw) - Delphi SourceCode Group
+
+
+###Other
+ - [Web Support](https://telegram.me/joinchat/Amapzzu5N7KU9l8i9biQVw) - Web support group - Topics related to designing and managing Web sites - graphic design and ...
+ - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
+ - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
  - [Step By Step Learn](https://telegram.me/stepbysteplearn) - Programming Tutorials Channel
  - [Startup & Developers](https://telegram.me/joinchat/Cp3i8T4nWz-mlpCNbtRXmw) - Startup & Developers Group
  - [UnixLike](https://telegram.me/joinchat/CXY-8UBLZqxDL96KpNx4aA) - Group Linux
