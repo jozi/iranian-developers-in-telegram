@@ -19,7 +19,7 @@
  - [Dayche Data Mining](https://telegram.me/Dayche) - Group data mining Daykh: The Psychology of data; a place for lovers of data mining
  - [Data Science](https://telegram.me/dataanalysis) - A channel for Data Science
 
-###BigcData
+###Big Data
  - [Big Data](https://telegram.me/joinchat/A7SgeDuzptdo9zhyJV7MVA) - Group for specialized topics related to Big Data
  - [Hadoop.ir](https://telegram.me/hadoop) - Channel Hadoop.ir 
 
