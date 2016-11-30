@@ -30,4 +30,5 @@
  - [ITDMC](https://telegram.me/itdmc) - Channel Center for Information Technology and Digital Media
  - [Programming Tips](https://telegram.me/programming_tips) - A channel for free time Programmers and news and information programming.
  - [Data Science](https://telegram.me/dataanalysis) - A channel for Data Science
+ - [Mfta ir](https://telegram.me/mfta_ir) - Journal tomorrow's technology channel
  
