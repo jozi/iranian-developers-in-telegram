@@ -17,3 +17,4 @@
  - [Python Programming Resources](https://telegram.me/pythony) - Channel for Python Programming Resources
  - [ITFarsi](https://telegram.me/ITFarsi) - Channel IT Farsi With more than 63,000 members
  - [Khabar Fouri IT](https://telegram.me/Khabar_Fouri_IT) - A channel for Those interested in the field of technology
+ - [Big Data](https://telegram.me/joinchat/A7SgeDuzptdo9zhyJV7MVA) - Group for specialized topics related to Big Data
