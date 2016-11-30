@@ -9,3 +9,4 @@
  - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
  - [SQL Server](https://telegram.me/joinchat/BTQQtzy50j-IxIAOKHWwVg) - SQL Server Discussion Group 
  - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
+ - [Delphi](https://telegram.me/joinchat/Bia5cD6E3fj8di6UgAxvSw) - Delphi Discussion Group
