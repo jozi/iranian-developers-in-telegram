@@ -25,4 +25,7 @@
  - [Hadoop.ir](https://telegram.me/hadoop) - Channel Hadoop.ir 
  - [SQL Server/Oracle Data Mining](https://telegram.me/SQL_DataMining) - SQL Server Data Mining/ Azure ML SQL Server Data Warehousing Oracle Data Mining Big-Data
  - [Dayche Data Mining](https://telegram.me/Dayche) - Group data mining Daykh: The Psychology of data; a place for lovers of data mining
-
+ - [Jahesh Academy](https://telegram.me/jaheshacademy) - Students entering the labor market and entrepreneurial cycle, with the help of superior teachers
+ - [Farabar_BI](https://telegram.me/Farabar_BI) - BI Channel for farabar.net 
+ - [ITDMC](https://telegram.me/itdmc) - Channel Center for Information Technology and Digital Media
+ 
