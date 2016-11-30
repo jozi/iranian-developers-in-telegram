@@ -1,4 +1,4 @@
-# iranian-developers-in-telegram
+# Iranian Dvelopers In Telegram
 ##Curated List of Persian Groups and Channels for Iranian (Persian) Developers in Telegram
 ## Contents
  - [Machine Learning](#machine-learning)
