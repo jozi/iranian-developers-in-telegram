@@ -31,4 +31,4 @@
  - [Programming Tips](https://telegram.me/programming_tips) - A channel for free time Programmers and news and information programming.
  - [Data Science](https://telegram.me/dataanalysis) - A channel for Data Science
  - [Mfta ir](https://telegram.me/mfta_ir) - Journal tomorrow's technology channel
- 
+ - [SEO](https://telegram.me/joinchat/BPd01zwYPAkNV3tTsoc8pA) - SEO Group 
