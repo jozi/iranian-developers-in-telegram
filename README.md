@@ -29,4 +29,5 @@
  - [Farabar_BI](https://telegram.me/Farabar_BI) - BI Channel for farabar.net 
  - [ITDMC](https://telegram.me/itdmc) - Channel Center for Information Technology and Digital Media
  - [Programming Tips](https://telegram.me/programming_tips) - A channel for free time Programmers and news and information programming.
+ - [Data Science](https://telegram.me/dataanalysis) - A channel for Data Science
  
