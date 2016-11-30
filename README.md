@@ -13,3 +13,5 @@
  - [Delphi](https://telegram.me/Embarcadero_Delphi) - Delphi Channel 
  - [Delphi SourceCode](https://telegram.me/joinchat/Bvjv_j9Ra3U6gQFk9Ek2Lw) - Delphi SourceCode Group
  - [DataPool](https://telegram.me/joinchat/BEtl7zy6mdKn6qOsgGYMfg) - Group for Sharing Research Data
+ - [Python](https://telegram.me/joinchat/BR1mSTwSfWdmkxmyF4Gpig) - Group interested in Python
+ - [Python Programming Resources](https://telegram.me/pythony) - Channel for Python Programming Resources
