@@ -7,6 +7,7 @@
  - [News](#news)
  - [Database](#database)
  - [Delphi](#delphi)
+ - [C#](#csharp)
  - [Other](#other)
 
 ###Machine Learning
@@ -42,11 +43,13 @@
  - [Delphi](https://telegram.me/Embarcadero_Delphi) - Delphi Channel 
  - [Delphi SourceCode](https://telegram.me/joinchat/Bvjv_j9Ra3U6gQFk9Ek2Lw) - Delphi SourceCode Group
 
+###C#
+ - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
+ - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
 
 ###Other
  - [Web Support](https://telegram.me/joinchat/Amapzzu5N7KU9l8i9biQVw) - Web support group - Topics related to designing and managing Web sites - graphic design and ...
  - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
- - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
  - [Step By Step Learn](https://telegram.me/stepbysteplearn) - Programming Tutorials Channel
  - [Startup & Developers](https://telegram.me/joinchat/Cp3i8T4nWz-mlpCNbtRXmw) - Startup & Developers Group
  - [UnixLike](https://telegram.me/joinchat/CXY-8UBLZqxDL96KpNx4aA) - Group Linux
@@ -63,5 +66,4 @@
  - [Learning C++](https://telegram.me/Learncpp) - Learning C++  Channel
  - [Iran PHP](https://telegram.me/irphp) - A php Channel
  - [Persian Developers](https://telegram.me/persiandevelopers) - Training programs - from beginner to professional Channel
- - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
  - [Heilton Programming](https://telegram.me/HeiltonProgramming) -Projects and teaching programming C #, C ++, Java, PHP, HTML, CSS, Bootstrap, VB.net, v basic, XML, Projects and education network CCNA, Network +, MCITP and ... 
