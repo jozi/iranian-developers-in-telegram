@@ -9,7 +9,7 @@
  - [Database](#database)
  - [Delphi](#delphi)
  - [Csharp](#csharp)
- - [C++](#c--)
+ - [Cplusplus](#cplusplus)
  - [Web Develop](#web-develop)
  - [Linux](#linux)
  - [Other](#other)
@@ -59,7 +59,7 @@
  - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
  - [Heilton Programming](https://telegram.me/HeiltonProgramming) -Projects and teaching programming C #, C ++, Java, PHP, HTML, CSS, Bootstrap, VB.net, v basic, XML, Projects and education network CCNA, Network +, MCITP and ... 
 
-###c++
+###Cplusplus
  - [Learning C++](https://telegram.me/Learncpp) - Learning C++  Channel
 
 ###Web Develop 
