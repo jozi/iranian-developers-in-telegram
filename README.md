@@ -27,7 +27,6 @@
  - [Hadoop.ir](https://telegram.me/hadoop) - Channel Hadoop.ir 
  - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
  - [Farabar_BI](https://telegram.me/Farabar_BI) - BI Channel for farabar.net 
- - [Apache Flink](https://telegram.me/joinchat/CMy3yEBTEZz2JJlj4PjfVA) - Apache Flink 🐿 The Real-Time Big Data Star
 
 ###Python
  - [IrPython](https://telegram.me/joinchat/BFAsrj2D5okEHzEZfhuTpw) - Iranian Python Users Group
@@ -80,3 +79,4 @@
  - [Programmers & Developers](https://telegram.me/joinchat/CtLPQz1zgxeC4Xtw9fU6YA) - Programmers & Developers Group 
  - [Computer Problems](https://telegram.me/joinchat/BMmX7j6aLeL7favbNOMCHQ) - Computer problems, phone hacking and security questions Group 
  - [Persian Developers](https://telegram.me/persiandevelopers) - Training programs - from beginner to professional Channel
+ - [Docker](https://telegram.me/joinchat/DBSHvj6Jmd0FYWfhyvrnvw) - Docker chating and tutoring group.
