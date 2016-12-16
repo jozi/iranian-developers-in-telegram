@@ -80,3 +80,4 @@
  - [Computer Problems](https://telegram.me/joinchat/BMmX7j6aLeL7favbNOMCHQ) - Computer problems, phone hacking and security questions Group 
  - [Persian Developers](https://telegram.me/persiandevelopers) - Training programs - from beginner to professional Channel
  - [Docker](https://telegram.me/joinchat/DBSHvj6Jmd0FYWfhyvrnvw) - Docker chating and tutoring group.
+ - [SST](https://telegram.me/Scientific_Software_Testing) - Scientific Software Testing Channel
