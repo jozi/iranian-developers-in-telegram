@@ -27,6 +27,11 @@
  - [Hadoop.ir](https://telegram.me/hadoop) - Channel Hadoop.ir 
  - [Cloud computing & Internet of Things & Data analysis](https://telegram.me/joinchat/Dgpq2T9U20xQA_mIryMTgQ) - Cloud computing & Internet of Things & Data analysis group
  - [Farabar_BI](https://telegram.me/Farabar_BI) - BI Channel for farabar.net 
+ - [Elastic Search - Big Data](https://telegram.me/joinchat/CMy3yEFBnXWTyweNv_gc4Q) - Group for topics related to Elasticsearch and Big data
+ - [Elasticsearch](https://telegram.me/elasticsearch_ir) - A channel for elasticsearch tutorials, technical blogs and news.
+ - [Apache Flink 🐿 The Real-Time Big Data Star](https://telegram.me/joinchat/CMy3yEBTEZz2JJlj4PjfVA) - A group related to Apache Flink topics.
+ - [Apache Flink 🐿 Big Data](https://telegram.me/ApacheFlink): A channel related to Apache Flink topics.
+ - [Data Science](https://telegram.me/datascienceteam): A channel for tutorials, books and other useful contents related to data science.
 
 ###Python
  - [IrPython](https://telegram.me/joinchat/BFAsrj2D5okEHzEZfhuTpw) - Iranian Python Users Group
