@@ -9,6 +9,7 @@
  - [Database](#database)
  - [Delphi](#delphi)
  - [C sharp](#c-sharp)
+ - [JavaScript](#javascript)
  - [C plus plus](#c-plus-plus)
  - [Web Develop](#web-develop)
  - [Linux](#linux)
@@ -63,6 +64,11 @@
  - [.NET](https://telegram.me/joinchat/AjZjNTzwymqmrz9HY2BCzw) - .NET Discussion Group
  - [C# & Xamarin](https://telegram.me/joinchat/A9gCpD-qWX7d_K7cFNWBjA) - C# & Xamarin &  Android Group
  - [Heilton Programming](https://telegram.me/HeiltonProgramming) -Projects and teaching programming C #, C ++, Java, PHP, HTML, CSS, Bootstrap, VB.net, v basic, XML, Projects and education network CCNA, Network +, MCITP and ... 
+ 
+###JavaScript
+ - [TehranJS](https://t.me/joinchat/AAAAADuurksaUzYjKNFtpA)
+ - [Nodejs](https://t.me/joinchat/AAAAAD52tBIWQ0HATnkCYA)
+ - [JS and Frameworks](https://t.me/joinchat/AAAAAD7vWhnurtn1U0_RHA)
 
 ###C plus plus
  - [Learning C++](https://telegram.me/Learncpp) - Learning C++  Channel
