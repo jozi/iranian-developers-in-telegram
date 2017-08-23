@@ -22,6 +22,7 @@
  - [DataPool](https://telegram.me/joinchat/BEtl7zy6mdKn6qOsgGYMfg) - Group for Sharing Research Data
  - [Dayche Data Mining](https://telegram.me/Dayche) - Group data mining Daykh: The Psychology of data; a place for lovers of data mining
  - [Data Science](https://telegram.me/dataanalysis) - A channel for Data Science
+ - [Image processing](https://telegram.me/joinchat/Bm-SgUELJ355MOKYgoDXrg) - A group for Image processing and data mining and machine learning
 
 ### Big Data
  - [Big Data](https://telegram.me/joinchat/A7SgeDuzptdo9zhyJV7MVA) - Group for specialized topics related to Big Data
